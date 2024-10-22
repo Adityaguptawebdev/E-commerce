@@ -110,7 +110,7 @@ body {
 /* Banner Section */
 .banner {
   /* background-image: url('./img/AdobeStock_785356031_Preview.jpeg');  */
-  background-image: url('./img/AdobeStock_795018435_Preview.jpeg'); 
+  background-image: url('./AdobeStock_795018435_Preview.jpeg'); 
   background-size: cover;
   background-position: center;
   height: 90vh;
